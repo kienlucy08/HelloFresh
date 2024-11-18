@@ -1,0 +1,5 @@
+nltk==3.5
+pandas==2.0.2
+recipe_scrapers==14.36.1
+selenium==4.9.1
+spacy==3.5.3
